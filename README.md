@@ -5,7 +5,7 @@
 This is a simple mod that shows the current pearl you are holding. 
 Just a simple mod I made for myself for sorting through my pearl filled shelter.
 
-Easy download: https://steamcommunity.com/sharedfiles/filedetails/?id=3428682530
+Easy download: https://steamcommunity.com/sharedfiles/filedetails/?id=3428753018
 Latest release on GitHub: https://github.com/Simyon264/RW-Whats-This-Pearl/releases/latest
 
 # How to compile
