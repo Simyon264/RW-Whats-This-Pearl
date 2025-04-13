@@ -1,18 +1,14 @@
 ﻿{
   "id": "simyon.whatsthispearl",
   "name": "What's This Pearl?",
-  "version": "1.1",
-  "target_game_version": "v1.9.15b",
+  "version": "1.2",
   "authors": "Simyon",
   "description": "Shows the name of the pearl that you are holding and optionally it's ID.",
   "youtube_trailer_id": "",
-  "requirements": [
-    "moreslugcats"
-  ],
-  "requirements_names": [
-    "More Slugcats Expansion"
-  ],
+  "requirements": [],
+  "requirements_names": [],
   "priorities": [],
   "tags": ["Accessibility"],
-  "checksum_override_version": false
+  "checksum_override_version": false,
+  "workshop_id": 3428753018
 }
